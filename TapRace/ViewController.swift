@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController
 {
 
+    // jesse is very smart
     
     var label = UILabel()
     var counter = 0
